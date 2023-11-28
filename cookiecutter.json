@@ -1,0 +1,7 @@
+{
+"project_name": "my-package",
+"description": "A minimal Python package",
+"package_name": "{{ cookiecutter.project_name.replace('-', '_') }}",
+"author": "Monty Python",
+"license": "GPL3"
+}
