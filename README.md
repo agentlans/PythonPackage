@@ -2,8 +2,7 @@
 Minimal Python package template
 
 ## Install and Use
-Required:
-- [cookiecutter](https://www.cookiecutter.io/) package
+Required: [cookiecutter](https://www.cookiecutter.io/) package
 
 1. On the command line, run `cookiecutter gh:agentlans/PythonPackage` and answer the questions.
 2. Go into the newly-created package and put your code in `Code.py`. Be sure to update `__init__.py` to expose the needed functions.
@@ -11,4 +10,6 @@ Required:
 
 ## Author and Licence
 
-PythonPackage by Alan Tseng is licensed under the Creative Commons CC0 1.0 Universal License.
+Copyright ©️ 2023 by Alan Tseng
+
+GNU General Public License v3
